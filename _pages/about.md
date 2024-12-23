@@ -32,7 +32,7 @@ intuitively.
 
 My passion for programming began at the age of 15 when I started studying C++ while attending
 a technical IT institute. Over time, I developed a particular interest in algorithm design, combining
-computer science with combinatorial elements such as graphs to solve complex problems and
+computer science with combinatorial elements such as [graphs](https://en.wikipedia.org/wiki/Graph_(topology)) to solve complex problems and
 optimize solutions.
 
 A data-driven personal website
