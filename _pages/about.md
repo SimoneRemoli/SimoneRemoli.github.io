@@ -9,20 +9,26 @@ redirect_from:
 
 I studied at the [University of Rome Tor Vergata](https://ing.uniroma2.it/), in the Faculty of Computer
 Engineering, with a specialization in *"Software and Web."* 
-During my academic journey, I gained solid expertise in operating systems and machine language, with a particular focus on x86
-assembly.
+
+During my academic journey, I gained solid expertise in operating systems and machine language, with a particular focus on *x86
+assembly*.
+
 I had the opportunity to collaborate as a visitor at the [National Research Council (C.N.R.)](https://www.cnr.it/), where I
-developed skills in using [LabVIEW](https://www.ni.com/en/shop/labview.html) to create programs for data acquisition and analysis, process
-control, report generation, and software design in industrial settings.
-Subsequently, I worked at AlmavivA as a database administrator and web application developer in
-C#, integrating Microsoft 365 and SharePoint. Specifically, I managed projects for the Italian
-Ministry of Defense, focusing on the implementation of digital signature systems.
+developed skills in using [LabVIEW](https://www.ni.com/en/shop/labview.html) to create programs for data acquisition and analysis, process control, report generation, and software design in industrial settings.
+
+I worked at [AlmavivA](https://www.almaviva.it/it_IT) as a database administrator and web application developer in
+C#, integrating Microsoft 365 and SharePoint. 
+Specifically, I managed projects for the [https://www.difesa.it/](Italian Ministry of Defense), focusing on the implementation of digital signature systems.
+
 I am deeply passionate about distributed programming on servers, particularly in Linux
-environments. I use Apache Tomcat to configure LAMP (Linux, Apache, MySQL, PHP) stacks on
+environments. 
+I use Apache Tomcat to configure LAMP (Linux, Apache, MySQL, PHP) stacks on
 Raspberry Pi, creating local mini servers for experimental projects.
+
 Among my personal projects currently in development is RouteX, a Java-based application
 designed to help citizens of large metropolitan areas use subway networks eﬃciently and
 intuitively.
+
 My passion for programming began at the age of 15 when I started studying C++ while attending
 a technical IT institute. Over time, I developed a particular interest in algorithm design, combining
 computer science with combinatorial elements such as graphs to solve complex problems and
