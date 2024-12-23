@@ -1,13 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "General Information"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I studied at the University of Rome Tor Vergata, in the Faculty of Computer
+Engineering, with a specialization in "Software and Web." During my academic journey, I gained
+solid expertise in operating systems and machine language, with a particular focus on x86
+assembly.
+I had the opportunity to collaborate as a visitor at the National Research Council (C.N.R.), where I
+developed skills in using LabVIEW to create programs for data acquisition and analysis, process
+control, report generation, and software design in industrial settings.
+Subsequently, I worked at AlmavivA as a database administrator and web application developer in
+C#, integrating Microsoft 365 and SharePoint. Specifically, I managed projects for the Italian
+Ministry of Defense, focusing on the implementation of digital signature systems.
+I am deeply passionate about distributed programming on servers, particularly in Linux
+environments. I use Apache Tomcat to configure LAMP (Linux, Apache, MySQL, PHP) stacks on
+Raspberry Pi, creating local mini servers for experimental projects.
 
 A data-driven personal website
 ======
