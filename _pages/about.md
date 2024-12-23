@@ -42,14 +42,11 @@ One of the fields I am most passionate about is *theoretical computer science*. 
 
 
 
-Getting started
+Passion for Graph Theory in Computer Science
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[Graph theory](https://en.wikipedia.org/wiki/Graph_theory) represents one of the most fascinating areas of computer science for me, where logic, mathematics, and creativity converge to solve complex problems. I am particularly interested in studying graph structures, which find applications in numerous fields, from optimizing paths to designing computer networks.
+
+I enjoy analyzing algorithms such as [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [Prim](https://en.wikipedia.org/wiki/Prim%27s_algorithm), and [Kruskal](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) to uncover the most efficient ways to navigate graphs, whether they represent transportation networks, social connections, or technological infrastructures. 
 
 Site-wide configuration
 ------
