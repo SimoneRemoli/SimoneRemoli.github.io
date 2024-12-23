@@ -14,7 +14,8 @@ During my academic journey, I gained solid expertise in operating systems and ma
 assembly*.
 
 I had the opportunity to collaborate as a visitor at the [National Research Council (C.N.R.)](https://www.cnr.it/), where I
-developed skills in using [LabVIEW](https://www.ni.com/en/shop/labview.html) to create programs for data acquisition and analysis, process control, report generation, and software design in industrial settings.
+developed skills in using [LabVIEW](https://www.ni.com/en/shop/labview.html) to create programs for data acquisition and analysis, process control, report generation, and software design in industrial settings for a solar simulator.
+
 
 I worked at [AlmavivA](https://www.almaviva.it/it_IT) as a database administrator and web application developer in
 C#, integrating Microsoft 365 and SharePoint. 
