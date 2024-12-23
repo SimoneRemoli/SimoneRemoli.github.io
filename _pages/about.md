@@ -37,7 +37,7 @@ optimize solutions. Click [here](https://github.com/SimoneRemoli/Dijkstra-s-algo
 
 Theoretical Computer Science
 ======
-One of the fields I am most passionate about is *theoretical computer science*. I deeply enjoy studying the complexity of algorithms and exploring the distinction between polynomial and non-polynomial solutions, considering that problems in the NP class can be solved by a nondeterministic Turing machine in polynomial time.
+One of the fields I am most passionate about is *theoretical computer science*. I deeply enjoy studying the [complexity of algorithms](https://en.wikipedia.org/wiki/Computational_complexity_theory) and exploring the distinction between polynomial and non-polynomial solutions, considering that problems in the NP class can be solved by a nondeterministic Turing machine in polynomial time.
 ![P_np_np-complete_np-hard svg](https://github.com/user-attachments/assets/15705430-cd52-429c-96c1-0c32b192c906)
 
 
