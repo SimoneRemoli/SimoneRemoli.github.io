@@ -47,6 +47,9 @@ Passion for Graph Theory in Computer Science
 [Graph theory](https://en.wikipedia.org/wiki/Graph_theory) represents one of the most fascinating areas of computer science for me, where logic, mathematics, and creativity converge to solve complex problems. I am particularly interested in studying graph structures, which find applications in numerous fields, from optimizing paths to designing computer networks.
 
 I enjoy analyzing algorithms such as [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [Prim](https://en.wikipedia.org/wiki/Prim%27s_algorithm), and [Kruskal](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) to uncover the most efficient ways to navigate graphs, whether they represent transportation networks, social connections, or technological infrastructures. 
+![Petersen_double_cover svg](https://github.com/user-attachments/assets/84ec2b52-26a4-4293-8967-595e83b49173)
+
+I love exploring the mysteries and applications of graph theory, from the magic of [**degrees of separation**](https://en.wikipedia.org/wiki/Six_degrees_of_separation) and the [**Small World Theory**](https://en.wikipedia.org/wiki/Small-world_experiment), which reveal hidden connections in apparent chaos, to the logical challenges of the [**Three Utilities Problem**](https://en.wikipedia.org/wiki/Three_utilities_problem). I’m fascinated by concepts like [**Maximum Flow and Minimum Cut**](https://en.wikipedia.org/wiki/Maximum_flow_problem), which optimize networks and resources, and the [**Dominating Set**](https://en.wikipedia.org/wiki/Dominating_set), which captures efficiency in controlling graphs. Finally, the enigma of the [**Cycle Double Cover**](https://en.wikipedia.org/wiki/Cycle_double_cover), a conjecture that embodies the beauty of unanswered questions, deeply inspires me. For me, graph theory is an endless journey through logic, creativity, and real-world applications.
 
 Site-wide configuration
 ------
