@@ -33,7 +33,7 @@ intuitively.
 My passion for programming began at the age of 15 when I started studying C++ while attending
 a technical IT institute. Over time, I developed a particular interest in algorithm design, combining
 computer science with combinatorial elements such as [graphs](https://en.wikipedia.org/wiki/Graph_(topology)) to solve complex problems and
-optimize solutions. Click [here](https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/blob/main/Dijkstra_How_to_Implement.pdf) for the explanation of Dijkstra's algorithm on graphs in Italian."
+optimize solutions. Click [here](https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/blob/main/Dijkstra_How_to_Implement.pdf) for the explanation of recursive Dijkstra's algorithm on graphs in Italian.
 
 A data-driven personal website
 ======
