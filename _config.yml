@@ -24,9 +24,9 @@ author:
   avatar           : "ioo.png"
   name             : "Simone Remoli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Sharing of worldwide code"
+  location         : "Rome, Italy"
+  employer         : "Tor Vergata University"
   uri              : # URL
   email            : "none@example.org" 
 
