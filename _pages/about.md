@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 I studied at the [University of Rome Tor Vergata](https://ing.uniroma2.it/), in the Faculty of Computer
-Engineering, with a specialization in *"Software and Web."* During my academic journey, I gained
-solid expertise in operating systems and machine language, with a particular focus on x86
+Engineering, with a specialization in *"Software and Web."* 
+During my academic journey, I gained solid expertise in operating systems and machine language, with a particular focus on x86
 assembly.
-I had the opportunity to collaborate as a visitor at the National Research Council (C.N.R.), where I
-developed skills in using LabVIEW to create programs for data acquisition and analysis, process
+I had the opportunity to collaborate as a visitor at the [National Research Council (C.N.R.)](https://www.cnr.it/), where I
+developed skills in using [LabVIEW](https://www.ni.com/en/shop/labview.html) to create programs for data acquisition and analysis, process
 control, report generation, and software design in industrial settings.
 Subsequently, I worked at AlmavivA as a database administrator and web application developer in
 C#, integrating Microsoft 365 and SharePoint. Specifically, I managed projects for the Italian
