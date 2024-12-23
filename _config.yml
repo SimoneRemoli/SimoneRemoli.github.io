@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://instagram.fcia8-1.fna.fbcdn.net/v/t51.29350-15/296177065_568119201691797_5005369740898339124_n.webp?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcia8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=7YgfbofVb6AQ7kNvgEmHvxn&_nc_gid=9e2d58ea0f7a49bf894a5acff72678e6&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=Mjg5MzI1MDk2NDg0NDkzOTI2OA%3D%3D.3-ccb7-5&oh=00_AYBucFjenA1v57WsX_GwKhK0eenTukYAMGLyJjoxWx-j9A&oe=676F99C9&_nc_sid=22de04"
+  avatar           : "imageeemy.jpeg"
   name             : "Simone Remoli"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
