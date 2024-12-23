@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I studied at the University of Rome Tor Vergata, in the Faculty of Computer
-Engineering, with a specialization in "Software and Web." During my academic journey, I gained
+I studied at the [University of Rome Tor Vergata](https://ing.uniroma2.it/), in the Faculty of Computer
+Engineering, with a specialization in *"Software and Web."* During my academic journey, I gained
 solid expertise in operating systems and machine language, with a particular focus on x86
 assembly.
 I had the opportunity to collaborate as a visitor at the National Research Council (C.N.R.), where I
@@ -20,6 +20,13 @@ Ministry of Defense, focusing on the implementation of digital signature systems
 I am deeply passionate about distributed programming on servers, particularly in Linux
 environments. I use Apache Tomcat to configure LAMP (Linux, Apache, MySQL, PHP) stacks on
 Raspberry Pi, creating local mini servers for experimental projects.
+Among my personal projects currently in development is RouteX, a Java-based application
+designed to help citizens of large metropolitan areas use subway networks eﬃciently and
+intuitively.
+My passion for programming began at the age of 15 when I started studying C++ while attending
+a technical IT institute. Over time, I developed a particular interest in algorithm design, combining
+computer science with combinatorial elements such as graphs to solve complex problems and
+optimize solutions.
 
 A data-driven personal website
 ======
