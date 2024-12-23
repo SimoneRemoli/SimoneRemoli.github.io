@@ -18,14 +18,14 @@ developed skills in using [LabVIEW](https://www.ni.com/en/shop/labview.html) to 
 
 I worked at [AlmavivA](https://www.almaviva.it/it_IT) as a database administrator and web application developer in
 C#, integrating Microsoft 365 and SharePoint. 
-Specifically, I managed projects for the [https://www.difesa.it/](Italian Ministry of Defense), focusing on the implementation of digital signature systems.
+Specifically, I managed projects for the [Italian Ministry of Defense]([Italian Ministry of Defense](https://www.difesa.it/)), focusing on the implementation of digital signature systems.
 
 I am deeply passionate about distributed programming on servers, particularly in Linux
 environments. 
-I use Apache Tomcat to configure LAMP (Linux, Apache, MySQL, PHP) stacks on
+I use [Apache Tomcat](https://tomcat.apache.org/) to configure LAMP (Linux, Apache, MySQL, PHP) stacks on
 Raspberry Pi, creating local mini servers for experimental projects.
 
-Among my personal projects currently in development is RouteX, a Java-based application
+Among my personal projects currently in development is [RouteX](https://github.com/SimoneRemoli/RouteX_Shortest_Path.git), a Java-based application
 designed to help citizens of large metropolitan areas use subway networks eﬃciently and
 intuitively.
 
